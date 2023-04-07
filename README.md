@@ -1,0 +1,1 @@
+Project uses Spring Boot, Spring DATA JPA, PostGRESQL (or MySQL) , and Java with REST API's in a Docker container to quickly create a simple  application that can read and write to the database with sample data provided in the database folder.
